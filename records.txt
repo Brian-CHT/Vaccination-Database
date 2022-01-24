@@ -1,0 +1,9 @@
+ryan malonn 1997/11/25 pfizer Y 2021/11/01 none 12347
+ryan malonn 1997/11/25 pfizer Y 2021/09/01 none 12347
+cryan zmalonn 1997/11/25 pfizer Y 2021/01/01 none 12348
+ryan cmalonn 1997/11/25 pfizer Y 2021/01/01 none 12349
+ryan cmalonth 1950/11/25 pfizer Y 2021/01/01 cancer 12349
+ryan malonn 1950/11/25 pfizer N 2021/01/01 cancer 12349
+ryan bmalonn 1950/11/25 pfizer N 2021/01/01 cancer 12349
+zryan zmalonn 1950/11/25 pfizer N 2021/01/01 cancer 12349
+Brian malonn 11/25/1997 az none 2021/02/01 none 12345
